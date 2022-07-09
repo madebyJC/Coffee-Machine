@@ -1,3 +1,5 @@
+# Coffee Machine
+
 from menu import MENU
 
 profit = 0
