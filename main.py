@@ -1,5 +1,5 @@
 from menu import MENU
-# test
+
 profit = 0
 resources = {
     "water": 300,
